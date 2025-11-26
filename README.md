@@ -1,4 +1,4 @@
-# Chat AI App(Built using AI agents)
+# Chat AI App(AI-supported development process.)
 
 A modern AI-powered chat application built with Stream Chat, OpenAI, and web search capabilities.
 
@@ -80,3 +80,4 @@ MIT License
 ---
 
 Built with ❤️ using GetStream.io, OpenAI, and modern web technologies.# Chat AI App
+
